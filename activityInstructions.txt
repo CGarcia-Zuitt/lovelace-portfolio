@@ -1,0 +1,11 @@
+A C T I V I T Y: 1 HR
+>> Create a Contact Section under Other Projects
+>> Create a parent div and designate an id for navbar use
+>> Put a Contact Me label using a header tag
+>> Create div that will contain a row
+>> Get the Form component from Bootstrap documentation
+>> Fill out the proper labels, mimic the sample output
+>> Add Bootstrap color classes
+>> For smaller screensizes, make sure there is no horizontal scrolling
+
+>> Send your output in Hangouts
